@@ -26,7 +26,7 @@ const Todo = () => {
         }
 
         setInputValue('');  // Clear input after adding or editing
-        setErrorMessage(''); // Clear error
+        setErrorMessage(''); 
     };
 
     // Delete Todo
