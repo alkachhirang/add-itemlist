@@ -41,7 +41,6 @@ const Todo = () => {
         setEditingIndex(index);       // Track which todo is being edited
     };
     
-
     return (
         <div className='mt-5'>
             <div className='container mx-auto'>
