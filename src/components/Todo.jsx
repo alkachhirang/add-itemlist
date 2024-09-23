@@ -40,6 +40,7 @@ const Todo = () => {
         setInputValue(todos[index]);  // Set the input value to the selected todo
         setEditingIndex(index);       // Track which todo is being edited
     };
+    
 
     return (
         <div className='mt-5'>
